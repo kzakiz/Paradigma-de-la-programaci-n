@@ -1,0 +1,96 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "game_name": "Zoolab",
+      "plataform": "Feature phone",
+      "company_name": "Avavee",
+      "date": 2010,
+      "language": "Limburgan"
+    },
+    {
+      "id": "2",
+      "game_name": "Rank",
+      "plataform": "Android 10, MIUI 12",
+      "company_name": "Twinte",
+      "date": 2020,
+      "language": "Rundi"
+    },
+    {
+      "id": "3",
+      "game_name": "Stronghold",
+      "plataform": "Feature phone",
+      "company_name": "Gabvine",
+      "date": 2011,
+      "language": "Ojibwa"
+    },
+    {
+      "id": "4",
+      "game_name": "Rank",
+      "plataform": "Android 4.4.2",
+      "company_name": "Blogspan",
+      "date": 2014,
+      "language": "Tamil"
+    },
+    {
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "game_name": "Mexico vs Peru",
+      "plataform": "Microsoft Windows Mobile 6.5 Professional",
+      "company_name": "Supercell",
+      "date": 200,
+      "language": "indu"
+    },
+    {
+      "id": "7",
+      "game_name": "Asoka",
+      "plataform": "Android 8.1",
+      "company_name": "Linkbuzz",
+      "date": 2019,
+      "language": "Tsonga"
+    },
+    {
+      "id": "8",
+      "game_name": "Zontrax",
+      "plataform": "Android 6.0.1, up to 7.0",
+      "company_name": "Wordtune",
+      "date": 2016,
+      "language": "Greek, Modern (1453-)"
+    },
+    {
+      "id": "9",
+      "game_name": "Subin",
+      "plataform": "Android 4.3, up to 4.4",
+      "company_name": "Fatz",
+      "date": 2014,
+      "language": "Afar"
+    },
+    {
+      "id": "10",
+      "game_name": "Job",
+      "plataform": "Proprietary OS",
+      "company_name": "Kwimbee",
+      "date": 2020,
+      "language": "Tahitian"
+    },
+    {
+      "id": "11",
+      "game_name": "Minecraft",
+      "plataform": "Micro ondas",
+      "company_name": "samsung",
+      "date": 2080,
+      "language": "alienijena"
+    },
+    {
+      "id": "12",
+      "game_name": "Undetale",
+      "plataform": "Avion",
+      "company_name": "Tobias el zorro",
+      "date": 1500,
+      "language": "japones"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
